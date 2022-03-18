@@ -1,4 +1,5 @@
 node_modules/
-
-/Styles/tailwind.css
+Styles/
 important.txt
+postcss.config.js
+tailwind.config.js
